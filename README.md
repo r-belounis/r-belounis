@@ -1,5 +1,5 @@
 ### I'm Alexandre Reza, a full-time full-stack developer based in Paris 🚀
-<i style="font-style: italic">(you can call me either Alexandre or Reza)</i>
+<i style="font-style: italic">(you can call me either <b>Alexandre</b> or <b>Reza</b>)</i>
   
 
 🥼Working at [WhiteLab Genomics](https://www.whitelabgx.com)  
@@ -23,17 +23,14 @@
 <a href="https://www.behance.net/rbelounis" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-  
-
+ 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=r-belounis&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api?username=r-belounis&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /> 
 
 <br/>  
 
 <details><summary> My Skill Set </summary><table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -46,15 +43,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>  
-
-
 
 ### UI/UX  
 <div align="center">  
@@ -66,8 +60,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -87,10 +79,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
