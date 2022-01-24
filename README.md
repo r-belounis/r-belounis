@@ -1,8 +1,5 @@
-<h3 align="center">Fullstack Developper based in Paris</h3>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h1 align="center">Hi 👋, I'm Alexandre Reza Belounis</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
