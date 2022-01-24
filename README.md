@@ -10,10 +10,6 @@
 ✨ Fun fact : This is a star and I'm using it in my commits too  
   
 
-<br/>  
-
-
-
 ### Get in touch (if you want)  
 <a href="https://github.com/r-belounis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
