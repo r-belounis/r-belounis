@@ -1,12 +1,9 @@
-### I'm Alexandre Reza, a full-time full-stack developer based in Paris 🚀  
+### I'm Alexandre Reza, a full-time full-stack developer based in Paris 🚀
+<i style="font-style: italic">(you can call me either Alexandre or Reza)</i>
   
 
 🥼Working at [WhiteLab Genomics](https://www.whitelabgx.com)  
-  
-
- 🔬 I’m learning [Julia](https://julialang.org/) for scientific purpose  
-  
-
+🔬 I’m learning [Julia](https://julialang.org/) for scientific purpose  
 ✨ Fun fact : This is a star and I'm using it in my commits too  
   
 
