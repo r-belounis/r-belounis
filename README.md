@@ -78,6 +78,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" height="50" />  
 </div>
 </td><td valign="top" width="33%">
 
