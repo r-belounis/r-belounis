@@ -2,10 +2,8 @@
 <i style="font-style: italic">(you can call me either <b>Alexandre</b> or <b>Reza</b>)</i>
   
 
-🥼Working at [WhiteLab Genomics](https://www.whitelabgx.com)  
-🔬 I’m learning [Julia](https://julialang.org/) for scientific purpose  
-✨ Fun fact : This is a star and I'm using it in my commits too  
-  
+🥼Working at [WhiteLab Genomics](https://www.whitelabgx.com)   
+ 
 
 ### Get in touch (if you want)  
 <a href="https://github.com/r-belounis" target="_blank">
