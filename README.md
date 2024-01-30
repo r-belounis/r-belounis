@@ -1,4 +1,4 @@
-<body style="background-color:white;">
+<body style="background-color:rgb(255, 255, 255); position: absolute; width: 100%; height: 100%">
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=This+branch+is+for+testing+only)](https://git.io/typing-svg)
