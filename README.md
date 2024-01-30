@@ -1,4 +1,4 @@
-<div id="wrapper" style="background-color: white">
+<body style="background-color:white;">
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=This+branch+is+for+testing+only)](https://git.io/typing-svg)
@@ -107,4 +107,4 @@
 <div align="right">
     <img height="500" style="margin: 10px" src="./assets/svg/code.svg" alt="coding" />
 </div>
-</div>
+</body>
