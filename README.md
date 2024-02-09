@@ -104,10 +104,7 @@
 </td></tr></table>
 </details>
 
-<div align="right">
+<div align="right" style="position: absolute; top: 50px">
     <img height="500" style="margin: 10px" src="./assets/svg/code.svg" alt="coding" />
-</div>
-<div align="right">
-    <img height="500" style="margin: 10px" src="./assets/css/styles.svg" alt="coding" />
 </div>
 </body>
