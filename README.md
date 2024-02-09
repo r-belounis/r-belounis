@@ -1,5 +1,5 @@
-<body style="background-color:rgb(255, 255, 255); position: absolute; width: 100%; height: 100%">
-<div align="center">
+<body>
+<div align="center" >
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=This+branch+is+for+testing+only)](https://git.io/typing-svg)
 
@@ -104,7 +104,7 @@
 </td></tr></table>
 </details>
 
-<div align="right">
+<div align="right" style="position: absolute; top: 50px">
     <img height="500" style="margin: 10px" src="./assets/svg/code.svg" alt="coding" />
 </div>
 </body>
