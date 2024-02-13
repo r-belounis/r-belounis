@@ -1,7 +1,7 @@
 name: GitHub - Activity - Readme
 on:
   schedule:
-    - cron: "*/3000 * * * *"
+    - cron: "*/1 * * * *"
   workflow_dispatch:
 jobs:
   build:
