@@ -12,19 +12,28 @@
 
 </br>
 <!-- Activity -->
+<div align="center">
+    <img src="./assets/svg/ContributionSection.svg" width="60%" height="100%">
+</div>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+<div align="center">
+    <img src="./assets/svg/Separator2.svg" width="100%" height="100%">
+</div>
 
 </br>
 <!-- Skills Section -->
 <div align="center">
     <img src="./assets/svg/SkillsSection2.svg" width="70%" height="100%">
     <img src="./assets/svg/DeveloperSide.svg" width="100%" height="100%">
+    <img src="./assets/svg/DesignerSide.svg" width="100%" height="100%">
 </div>
 
 </br>
 <!-- Footer -->
 <div align="center">
-    <img src="./assets/svg/Separator2.svg" width="100%" height="100%">
+    <img src="./assets/svg/Separator3.svg" width="100%" height="100%">
     <img src="./assets/svg/Footer.svg" width="70%" height="100%">
 </div>
