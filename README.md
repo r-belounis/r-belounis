@@ -26,5 +26,5 @@
 <!-- Footer -->
 <div align="center">
     <img src="./assets/svg/Separator2.svg" width="100%" height="100%">
-    <img src="./assets/svg/Footer.svg" width="100%" height="100%">
+    <img src="./assets/svg/Footer.svg" width="70%" height="100%">
 </div>
