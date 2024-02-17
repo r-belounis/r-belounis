@@ -7,20 +7,22 @@
 <!-- Aside / Badges -->
 <div align="center">
     <a href="https://linkedin.com/in/rbelounis" target="_blank">
-        <img src="./assets/svg/Linkdin.svg" width=100 height=100 alt=linkedin style="margin: 5px;" />
+        <img src="./assets/svg/Linkdin.svg" width=100 height=100 alt=linkedin style="margin-right: 10px;" />
     </a>
     <a href="https://dev.to/rbelounis" target="_blank">
-        <img src="./assets/svg/DevTo.svg" width=100 height=100 alt=devto style="margin: 5px;" />
+        <img src="./assets/svg/DevTo.svg" width=100 height=100 alt=devto style="margin-right: 10px;" />
     </a>
     <a href="https://codepen.com/rbelounis" target="_blank">
-        <img src="./assets/svg/Codepen.svg" width=100 height=100 alt=codepen style="margin: 5px;" />
+        <img src="./assets/svg/Codepen.svg" width=100 height=100 alt=codepen style="margin-right: 10px;" />
     </a>
     <a href="https://www.behance.net/rbelounis" target="_blank">
-        <img src="./assets/svg/Behance.svg" width=100 height=100  alt=behance style="margin: 5px;" />
+        <img src="./assets/svg/Behance.svg" width=100 height=100  alt=behance />
     </a>
 </div>
 
+</br>
 <!-- Info display mode -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=20&pause=1000&color=E02C24&center=true&random=false&width=1500&lines=Best+to+see+in+dark+mode+!)](https://git.io/typing-svg)
 
 
