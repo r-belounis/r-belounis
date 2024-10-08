@@ -15,7 +15,7 @@
                     height: 100%;
                     width: 100%;
                 }
-                .tag {
+                <!-- .tag {
                     align-self: center;
                     background-color: #fff;
                     background-image: none;
@@ -51,7 +51,7 @@
                 }
                 .tag:focus {
                     box-shadow: rgba(0, 0, 0, .3) 2px 8px 4px -6px;
-                }
+                } -->
             </style>
 
             <div class="tags">
