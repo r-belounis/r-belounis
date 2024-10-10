@@ -10,7 +10,9 @@
             <style>
                 .tags {
                     display: flex;
-                    justify-content: space-between;
+                    justify-content: end;
+                    gap: 10px;
+                    padding-top: 5px;
                     height: 100%;
                     width: 100%;
                 }
@@ -43,30 +45,17 @@
                     -webkit-user-select: none;
                     touch-action: manipulation;
                 }
-                .tag:hover {
-                    box-shadow: rgba(0, 0, 0, .3) 2px 8px 8px -5px;
-                    transform: translate3d(0, 2px, 0);
-                }
-                .tag:focus {
-                    box-shadow: rgba(0, 0, 0, .3) 2px 8px 4px -6px;
-                }
             </style>
-
             <div class="tags">
-                <div class="tag">Angular</div>
-                <div class="tag">Vue(X)</div>
-                <div class="tag">JavaScript</div>
-                <div class="tag">TypeScript</div>
+                <div class="tag">Illustrator</div>
+                <div class="tag">Photoshop</div>
+                <div class="tag">InDesign</div>
+                <div class="tag">Adobe XD</div>
             </div>
             <div class="tags">
-                <div class="tag">(S)CSS</div>
-                <div class="tag">Building UIs</div>
-                <div class="tag">Web Components</div>
-            </div>
-            <div class="tags">
-                <div class="tag">Ionic</div>
-                <div class="tag">Electron</div>
-                <div class="tag">.NET</div>
+                <div class="tag">Figma</div>
+                <div class="tag">Framer</div>
+                <div class="tag">Spline</div>
             </div>
         </div>
     </foreignObject>
