@@ -20,13 +20,9 @@
     </a>
 </div>
 
-</br>
 <!-- Info display mode -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=20&pause=1000&color=E02C24&center=true&random=false&width=1500&lines=Best+to+see+in+dark+mode+!)](https://git.io/typing-svg)
 
-
-</br>
 <!-- Skills Section -->
 <div align="center">
     <img src="./assets/svg/Separator2.svg" width="100%" height="100%">
@@ -35,19 +31,16 @@
     <img src="./assets/svg/DesignerSide.svg" width="100%" height="100%">
 </div>
 
-</br>
 <!-- Contributions / Activity -->
 <div align="center">
     <img src="./assets/svg/Separator1.svg" width="100%" height="100%">
     <img src="./assets/svg/ContributionSection.svg" width="60%" height="100%">
 </div>
-
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=r-belounis&combine_all_yearly_contributions=true&theme=dracula)
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 </br>
+
+![r-belounis's Stats](https://github-readme-stats.vercel.app/api?username=r-belounis&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![r-belounis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-belounis&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
 <!-- Footer -->
 <div align="center">
     <img src="./assets/svg/Separator3.svg" width="100%" height="100%">
